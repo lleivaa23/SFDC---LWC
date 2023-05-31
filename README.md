@@ -1,4 +1,4 @@
-# SFDC---LWC
+# SFDC-LWC
 LWC for Salesforce
 
 Biblioteca de LWC Salesforce:  https://developer.salesforce.com/docs/component-library/overview/components
